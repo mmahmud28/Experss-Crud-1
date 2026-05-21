@@ -1,7 +1,9 @@
 {
   "dependencies": {
     "cors": "^2.8.6",
-    "express": "^5.2.1"
+    "express": "^5.2.1",
+    "mongobd": "^0.0.1-security.0",
+    "mongodb": "^7.2.0"
   },
   "name": "express-crud-part-one",
   "version": "1.0.0",
