@@ -46,14 +46,3 @@ try {
   } 
 }
 run().catch(console.dir);
-
-
-
-
-
-
-
-
-// simpleCrudUser
-
-// mongodb+srv://simpleCrudUser:<db_password>@cluster0.2ice4wx.mongodb.net/?appName=Cluster0
